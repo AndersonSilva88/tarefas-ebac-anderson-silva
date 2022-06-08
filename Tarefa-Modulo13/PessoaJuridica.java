@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class PessoaJuridica {
+public class PessoaJuridica extends Pessoa{
+
+    private String cnpj;
+
 }

@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Pessoafisica {
+public class PessoaFisica extends Pessoa{
+
+    private String cpf;
 }
